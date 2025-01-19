@@ -6,8 +6,8 @@ The Game of Life is a zero-player game devised by mathematician John Horton Conw
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/VOTRE-NOM/GameOfLife-AtlasKing51.git
-   cd GameOfLife-AtlasKing51
+   git clone https://github.com/EdouardDabo/GameOfLife-CDOF3.git
+   cd GameOfLife-CDOF3
    ```
 2. Install dependencies (if needed):
    ```bash
@@ -15,7 +15,7 @@ The Game of Life is a zero-player game devised by mathematician John Horton Conw
    ```
 3. Run the game:
    ```bash
-   python game_of_life.py
+   python main.py
    ```
 
 ## Guide on How to Contribute
@@ -24,8 +24,8 @@ We welcome contributions! Follow these steps to contribute:
 1. **Fork the repository** on GitHub.
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/VOTRE-NOM/GameOfLife-AtlasKing51.git
-   cd GameOfLife-AtlasKing51
+   git clone https://github.com/EdouardDabo/GameOfLife-CDOF3.git
+   cd GameOfLife-CDOF3
    ```
 3. **Create a new branch** for your feature:
    ```bash
